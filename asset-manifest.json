@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pramudyasaputra/static/css/main.b7dc8ad1.css",
+    "main.js": "/pramudyasaputra/static/js/main.18c6ceb2.js",
+    "static/js/787.0b10607e.chunk.js": "/pramudyasaputra/static/js/787.0b10607e.chunk.js",
+    "static/media/Saly-43.png": "/pramudyasaputra/static/media/Saly-43.d7547d288df464cef4f7.png",
+    "static/media/ci-logo.png": "/pramudyasaputra/static/media/ci-logo.277422fae26f851a2e01.png",
+    "static/media/postgresql-logo.png": "/pramudyasaputra/static/media/postgresql-logo.eba8cd3a04411be7a155.png",
+    "static/media/bootstrap-logo.png": "/pramudyasaputra/static/media/bootstrap-logo.45e7f855194388ef92a7.png",
+    "static/media/js-logo.png": "/pramudyasaputra/static/media/js-logo.7f8751632b42a9932c15.png",
+    "static/media/nginx-logo.png": "/pramudyasaputra/static/media/nginx-logo.d3341c2615ffb3405441.png",
+    "static/media/jquery-logo.png": "/pramudyasaputra/static/media/jquery-logo.6c97b0df27ea573c492f.png",
+    "static/media/laravel-logo.png": "/pramudyasaputra/static/media/laravel-logo.279e3fcb19d440713887.png",
+    "static/media/redis-logo.png": "/pramudyasaputra/static/media/redis-logo.52a85440d0cb10638fe8.png",
+    "static/media/mysql-logo.png": "/pramudyasaputra/static/media/mysql-logo.17ec01314179e9a8ab58.png",
+    "index.html": "/pramudyasaputra/index.html",
+    "static/media/down-arrow.svg": "/pramudyasaputra/static/media/down-arrow.1edfab86f389055c97b8.svg",
+    "main.b7dc8ad1.css.map": "/pramudyasaputra/static/css/main.b7dc8ad1.css.map",
+    "main.18c6ceb2.js.map": "/pramudyasaputra/static/js/main.18c6ceb2.js.map",
+    "787.0b10607e.chunk.js.map": "/pramudyasaputra/static/js/787.0b10607e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7dc8ad1.css",
+    "static/js/main.18c6ceb2.js"
+  ]
+}
