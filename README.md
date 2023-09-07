@@ -1,3 +1,3 @@
-# pramudyasaputra
-Portofolio Pramudya Saputra
-Visit website https://pramudyas.github.io/pramudyasaputra/
+# Pramudya Saputra
+Hi !
+Visit my portfolio website https://pramudyas.github.io/pramudyasaputra/
